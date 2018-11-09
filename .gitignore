@@ -105,3 +105,5 @@ venv.bak/
 
 # data
 DATA/
+results/Cycle26_Summary.csv
+results/Cycle26_Summary.numbers
