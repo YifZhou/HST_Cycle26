@@ -89,4 +89,4 @@ df['Science Category'] = sci_category
 df['Title'] = title
 
 df.sort_values('Cycle')
-df.to_csv('Cycle26_Summary.csv', index=False)
+df.to_csv('../results/Cycle26_Summary.csv', index=False)

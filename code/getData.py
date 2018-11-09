@@ -9,8 +9,11 @@ from os import path
 url_template = "http://www.stsci.edu/hst/phase2-public/{0}.apt"
 DATA_DIR = '../DATA/'
 
-n_start = 15480
-n_end = 15490
+# n_start = 15480
+# n_end = 15490
+n_start = 0
+n_end = 0
+
 
 for i in range(n_start, n_end):
     url_i = url_template.format(i)
