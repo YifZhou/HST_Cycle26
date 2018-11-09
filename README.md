@@ -1,5 +1,5 @@
 # HST_Cycle26
-Reqired third-party packages:   
+Required third-party packages:   
 * pandas
 * seaborn
 * matplotlib
